@@ -85,7 +85,7 @@ const Footer = () => {
               </span>
 
               <span>
-                <a href="https://github.com/binodpoudel" target='_blank' rel='noreferrer'>
+                <a href="https://github.com/binodpoudel/online-food-app" target='_blank' rel='noreferrer'>
                   <i class="ri-github-line"></i>
                 </a>
               </span>
