@@ -1,7 +1,16 @@
 Online Food App
 
 ### Features:
+![online12](https://user-images.githubusercontent.com/52706075/199344663-c6c44700-1678-45ed-bed4-1fa28c7285ba.png)
 
+<<<<<<< HEAD
+=======
+---
+![online(24)](https://user-images.githubusercontent.com/52706075/199346093-95edd640-1b0a-414b-9642-eef45d709465.png)
+
+![online23](https://user-images.githubusercontent.com/52706075/199346118-73033613-c9f9-418d-98cc-e68463da0796.png)
+
+>>>>>>> 2b700a5e549d887a77c9a0915457d049f407685a
 ##### Here's features included in this project
 
 - Add to cart functionality
