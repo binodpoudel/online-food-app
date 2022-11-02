@@ -1,10 +1,5 @@
 Online Food App
 
-<<<<<<< HEAD
-=======
-### Features:
-
->>>>>>> 2f5672748059defede152f0a679010aadadd6bbe
 ##### Here's features included in this project
 
 - Add to cart functionality
@@ -24,12 +19,9 @@ Online Food App
 4. CSS
 
 ### How to start?
-
-<<<<<<< HEAD
 //first install all necessary dependencies
-=======
+
 // first install all necessary dependencies
->>>>>>> 2f5672748059defede152f0a679010aadadd6bbe
 
 npm install 
 
