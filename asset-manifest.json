@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/online-food-app/static/css/main.e8667c38.chunk.css",
-    "main.js": "/online-food-app/static/js/main.b518eff2.chunk.js",
-    "main.js.map": "/online-food-app/static/js/main.b518eff2.chunk.js.map",
+    "main.js": "/online-food-app/static/js/main.cd6f0a05.chunk.js",
+    "main.js.map": "/online-food-app/static/js/main.cd6f0a05.chunk.js.map",
     "runtime-main.js": "/online-food-app/static/js/runtime-main.4894bdbd.js",
     "runtime-main.js.map": "/online-food-app/static/js/runtime-main.4894bdbd.js.map",
     "static/css/2.c0d0bc0b.chunk.css": "/online-food-app/static/css/2.c0d0bc0b.chunk.css",
-    "static/js/2.53f5df7a.chunk.js": "/online-food-app/static/js/2.53f5df7a.chunk.js",
-    "static/js/2.53f5df7a.chunk.js.map": "/online-food-app/static/js/2.53f5df7a.chunk.js.map",
+    "static/js/2.6fc9abd4.chunk.js": "/online-food-app/static/js/2.6fc9abd4.chunk.js",
+    "static/js/2.6fc9abd4.chunk.js.map": "/online-food-app/static/js/2.6fc9abd4.chunk.js.map",
     "index.html": "/online-food-app/index.html",
     "static/css/2.c0d0bc0b.chunk.css.map": "/online-food-app/static/css/2.c0d0bc0b.chunk.css.map",
     "static/css/main.e8667c38.chunk.css.map": "/online-food-app/static/css/main.e8667c38.chunk.css.map",
-    "static/js/2.53f5df7a.chunk.js.LICENSE.txt": "/online-food-app/static/js/2.53f5df7a.chunk.js.LICENSE.txt",
+    "static/js/2.6fc9abd4.chunk.js.LICENSE.txt": "/online-food-app/static/js/2.6fc9abd4.chunk.js.LICENSE.txt",
     "static/media/av-1.32d8b0f1.png": "/online-food-app/static/media/av-1.32d8b0f1.png",
     "static/media/av-2.6d74f239.png": "/online-food-app/static/media/av-2.6d74f239.png",
     "static/media/common-section.css": "/online-food-app/static/media/banner-02.1d3252d3.jpg",
@@ -44,8 +44,8 @@
   "entrypoints": [
     "static/js/runtime-main.4894bdbd.js",
     "static/css/2.c0d0bc0b.chunk.css",
-    "static/js/2.53f5df7a.chunk.js",
+    "static/js/2.6fc9abd4.chunk.js",
     "static/css/main.e8667c38.chunk.css",
-    "static/js/main.b518eff2.chunk.js"
+    "static/js/main.cd6f0a05.chunk.js"
   ]
 }
