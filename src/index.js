@@ -10,15 +10,15 @@ import "./index.css";
 import store from "./store/store";
 import { Provider } from "react-redux";
 
-import { BrowserRouter as Router } from "react-router-dom";
+import { BrowserRouter as Router, HashRouter } from "react-router-dom";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+    <HashRouter>
       <Provider store={store}>
         <App />
       </Provider>
-    </Router>
+    </HashRouter>
   </React.StrictMode>,
   document.getElementById("root")
 );

@@ -46,7 +46,7 @@ const Footer = () => {
                 <p>Location: Leipzig, Germany</p>
               </ListGroupItem>
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
-                <span>Phone: +49 17676688107</span>
+                <span>Phone: +49(0) 1796723519</span>
               </ListGroupItem>
 
               <ListGroupItem className=" delivery__time-item border-0 ps-0">
@@ -80,7 +80,7 @@ const Footer = () => {
               <span>
                 {" "}
                 <Link to="/home">
-                  <i class="ri-facebook-line"></i>
+                  <i class="ri-mail-line"></i>
                 </Link>{" "}
               </span>
 
@@ -91,7 +91,7 @@ const Footer = () => {
               </span>
 
               <span>
-                <a href="/https://www.xing.com/profile/Binod_Poudel2/cv" target='_blank' rel='noreferrer'>
+                <a href="https://www.xing.com/profile/Binod_Poudel2/cv" target='_blank' rel='noreferrer'>
                    <i class="ri-xing-line"></i>
                 </a>
               </span>
