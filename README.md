@@ -8,6 +8,11 @@ Online Food App
 
 ![online(24)](https://user-images.githubusercontent.com/52706075/199598443-c55bd8e3-a75b-42e2-8da2-822a1d922310.png)
 
+![cart](https://user-images.githubusercontent.com/52706075/200585800-ad3ca0b2-7638-4483-aefe-e0ae843afd99.png)
+
+![checkout](https://user-images.githubusercontent.com/52706075/200585846-2de0b77b-4aef-4b13-9720-46d12633193b.png)
+
+
 ![Screenshot (35)](https://user-images.githubusercontent.com/52706075/199598879-4171e53c-34f1-4d5a-b04e-04277c8398b2.png)
 
 
